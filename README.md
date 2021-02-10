@@ -1,4 +1,4 @@
-# HackUmass2020
+# SafeSpot HackUmass VIII
 
 
 Use FLASK
